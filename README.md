@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Profile%20Banner.png" width="100%" alt="Dhanasingh M - Java Full Stack Developer" />
+</p>
 # Hi there, I'm Dhanasingh M! 
 
 ### 💻 Aspiring Java Full Stack Developer
